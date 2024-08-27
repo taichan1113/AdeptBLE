@@ -1,0 +1,3 @@
+[submodule "zmk"]
+	path = zmk
+	url = https://github.com/taichan1113/mouse-test.git
