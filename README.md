@@ -10,7 +10,11 @@ Document may not reach your satisfaction.
 
 Designed by KiCAD and produted by [JLCPCB](https://jlcpcb.com/)
 
-Basically you need XIAO nRF52840 board and PMW3610 optical sensor.
+Basically you need XIAO nRF52840 board, PMW3610 optical sensor, omron D2LS-21 mouse switch, 6-pin slide switch and battery.
+
+Other parts are set as below.
+
+![JLCPCB parts](./image/JLCPCB_parts.png "JLCPCB Parts")
 
 ## firmware
 
