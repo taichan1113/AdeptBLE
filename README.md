@@ -1,3 +1,7 @@
+## Handsolderable version of Ploopy Adept BLE modification
+
+Original work forked from : https://github.com/taichan1113/AdeptBLE
+
 # Excuse
 
 This is alpha version of Ploopy Adept BLE modification.
