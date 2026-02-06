@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ble-xiao-footprint")(type "KiCad")(uri "${KIPRJMOD}/ble-xiao-footprint")(options "")(descr ""))
+)

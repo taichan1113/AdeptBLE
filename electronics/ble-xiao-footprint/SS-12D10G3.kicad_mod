@@ -1,0 +1,144 @@
+(footprint "SS-12D10G3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d453f1aa-faa3-486e-9809-80d78b335fe9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SS-12D10G3"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cbb8b8f7-3e6d-4adb-8eda-b2899a744c7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aac6b473-0637-4d7e-9463-a627e863776e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7873840-6f99-4228-b51e-97ad97600b90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3.5 -7)
+		(end -3.5 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d9bd68c3-a387-4aa0-9576-1d74dcdd7e68")
+	)
+	(fp_line
+		(start -3.5 -7)
+		(end 3.5 -7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "66732738-9ac3-46b7-a698-89bbc164520b")
+	)
+	(fp_line
+		(start 3.5 -7)
+		(end 3.5 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "aeb5b39a-a9a5-4787-8ea2-40a1328f97f7")
+	)
+	(fp_line
+		(start 3.5 7)
+		(end -3.5 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7fb36f9b-e512-4c01-8abe-e1728a08e7fc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "53f47a27-5b0e-4c70-8036-877324275a63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 -4.7)
+		(size 3 2.5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d8f6bbb4-eda2-440f-8a77-43d00e5e5056")
+	)
+	(pad "2" thru_hole oval
+		(at 0 0)
+		(size 3 2.5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8997e444-bc5d-4acd-b456-a38db791b9e2")
+	)
+	(pad "3" thru_hole oval
+		(at 0 4.7)
+		(size 3 2.5)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8279107a-4408-4dc1-9381-757e3b3f79bf")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/ble-xiao-footprint/3d_model/ss-12D10G3.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
