@@ -4,11 +4,7 @@ Original work forked from : https://github.com/taichan1113/AdeptBLE
 
 # Excuse
 
-This is alpha version of Ploopy Adept BLE modification.
-
-All necessary files are here but they are still messy.
-
-Document may not reach your satisfaction.
+AdeptBLE is a great idea, but it uses 0603 components, I wanted to use 0806 as they are more managable, and easy to handsoler
 
 ## electronics
 
@@ -18,9 +14,9 @@ Basically you need XIAO nRF52840 board, PMW3610 optical sensor, omron D2LS-21 mo
 
 Other parts are set as below.
 
-![JLCPCB parts](./image/JLCPCB_parts.png "JLCPCB Parts")
+TODO - Provide updated BOM
 
-## firmware
+## firmware (Stock firmware from taichan1113 will work)
 
 Here includes uf2 file built by zmk.
 
@@ -28,8 +24,8 @@ You can find the code [here](https://github.com/taichan1113/mouse-test/tree/main
 
 ## housing
 
-I designed like you only need bottom modified housing additionally.
+I updated the houseing to support the pcb better, and have cutout for battery wire below the pcb to avoid any mis-alignment.
 
-Note that put the battery wire not to interfere both top and bottom housings.
+## NOTE: 
 
-And you need to cut battery switch so as not to interfere the desk surface.
+Desin are not tested in very depth, i created one single prototype which is working without issues, YMMV. reach out in case you find issues or open PR.
