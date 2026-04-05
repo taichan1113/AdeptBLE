@@ -3246,7 +3246,7 @@
 			)
 		)
 	)
-	(global_label "+1V9"
+	(global_label "VCC"
 		(shape input)
 		(at 100.838 58.166 90)
 		(fields_autoplaced yes)
@@ -3258,7 +3258,7 @@
 		)
 		(uuid "a4a8cafe-8ceb-47fb-895b-66d60129db29")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.838 50.0057 90)
+			(at 100.838 51.4571 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5538,7 +5538,7 @@
 				)
 			)
 		)
-		(property "Value" "TCR2EF19"
+		(property "Value" "TLV70018"
 			(at 64.008 47.9806 0)
 			(effects
 				(font

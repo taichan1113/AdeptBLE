@@ -514,7 +514,7 @@
       "plot": "gerber_hs/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "pcb_3d/mcu_flipped_back.step",
+      "step": "pcb_3d/mcu_flipped_back-v1.1.step",
       "svg": "",
       "vmrl": "",
       "vrml": ""
