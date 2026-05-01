@@ -2984,22 +2984,22 @@
 	)
 	(global_label "pin6"
 		(shape input)
-		(at 200.66 142.24 180)
+		(at 215.9 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "2a60af89-b7c1-4664-9a61-f7e5ec7af392")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.4674 142.24 0)
+			(at 223.0926 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3204,7 +3204,7 @@
 	)
 	(global_label "pin5"
 		(shape input)
-		(at 158.75 142.24 180)
+		(at 173.99 142.24 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3214,7 +3214,7 @@
 		)
 		(uuid "9b2f635e-bd88-4409-888e-4a448e9889f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 151.5574 142.24 0)
+			(at 173.99 149.4326 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,7 +4982,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 173.99 142.24 0)
+		(at 158.75 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4990,7 +4990,7 @@
 		(dnp no)
 		(uuid "989bb680-df4b-4a48-bb09-7ab141eb9b23")
 		(property "Reference" "#PWR06"
-			(at 173.99 148.59 0)
+			(at 158.75 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4999,7 +4999,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 174.117 146.6342 0)
+			(at 158.877 146.6342 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5007,7 +5007,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 142.24 0)
+			(at 158.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5016,7 +5016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 142.24 0)
+			(at 158.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5025,7 +5025,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 173.99 142.24 0)
+			(at 158.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6032,7 +6032,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 142.24 0)
+		(at 200.66 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6040,7 +6040,7 @@
 		(dnp no)
 		(uuid "fa047931-e209-4450-ac5f-ae1b2427e858")
 		(property "Reference" "#PWR07"
-			(at 215.9 148.59 0)
+			(at 200.66 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6049,7 +6049,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 216.027 146.6342 0)
+			(at 200.787 146.6342 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6057,7 +6057,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 142.24 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6066,7 +6066,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 142.24 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6075,7 +6075,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 215.9 142.24 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
